@@ -1,2 +1,2 @@
 # wikiwwii
-Learn packaging.
+Learn packaging (poetry).
