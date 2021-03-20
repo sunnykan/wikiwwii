@@ -1,2 +1,2 @@
 # wikiwwii
-Learn packaging (poetry).
+Learn packaging (poetry) and CI (Azure)
