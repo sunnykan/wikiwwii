@@ -1,11 +1,14 @@
 [tool.poetry]
 name = "wikiwwii"
 version = "0.1.0"
-description = ""
-authors = ["K S <8283247+sunnykan@users.noreply.github.com>"]
+description = "From the book: Learn Python by Building Data Science Applications"
+authors = ["Philipp Kats <casyfill@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+requests = "^2.25.1"
+beautifulsoup4 = "^4.9.3"
+pandas = "^1.2.3"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
