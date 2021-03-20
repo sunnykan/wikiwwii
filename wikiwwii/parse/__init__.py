@@ -1,4 +1,4 @@
-from .bellengerets import _swap_ensure_sides
+from .belligerents import _swap_ensure_sides
 from .casualties import _parse_casualties
 from .dates import extract_dates
 from .geocode import (
